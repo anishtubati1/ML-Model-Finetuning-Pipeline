@@ -1,0 +1,1 @@
+This project demonstrates how to fine-tune a machine learning model on a custom dataset to improve performance on a specific task. It walks through the full pipeline from data preprocessing to model training and evaluation.
